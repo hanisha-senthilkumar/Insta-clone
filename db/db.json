@@ -1,0 +1,521 @@
+{
+  "profile": {
+    "id": "user_me",
+    "username": "hanisha_0510",
+    "fullName": "Hanisha SenthilKumar",
+    "profilePic": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+    "bio": "Designing memories ✨ | Travel & Tech ☕📸",
+    "followers": 1420,
+    "following": 385
+  },
+  "stories": [
+    {
+      "id": 1,
+      "username": "spider_adventures",
+      "profilePic": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80",
+      "storyImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+      "hasUnseen": true,
+      "time": "45m"
+    },
+    {
+      "id": 2,
+      "username": "travel_girl",
+      "profilePic": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "storyImage": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&auto=format&fit=crop&q=80",
+      "hasUnseen": true,
+      "time": "2h"
+    },
+    {
+      "id": 3,
+      "username": "chef_nivin",
+      "profilePic": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=150&auto=format&fit=crop&q=80",
+      "storyImage": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&auto=format&fit=crop&q=80",
+      "hasUnseen": true,
+      "time": "4h"
+    },
+    {
+      "id": 4,
+      "username": "sophia_art",
+      "profilePic": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "storyImage": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=800&auto=format&fit=crop&q=80",
+      "hasUnseen": true,
+      "time": "6h"
+    },
+    {
+      "id": 5,
+      "username": "nature_lens",
+      "profilePic": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "storyImage": "https://images.unsplash.com/photo-1511497584788-87676104235f?w=800&auto=format&fit=crop&q=80",
+      "hasUnseen": false,
+      "time": "9h"
+    },
+    {
+      "id": 6,
+      "username": "fitness_freak",
+      "profilePic": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+      "storyImage": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800&auto=format&fit=crop&q=80",
+      "hasUnseen": false,
+      "time": "12h"
+    },
+    {
+      "id": 7,
+      "username": "urban_architect",
+      "profilePic": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "storyImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&auto=format&fit=crop&q=80",
+      "hasUnseen": false,
+      "time": "18h"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": 1,
+      "username": "travel_boy",
+      "fullName": "Aryan Sharma",
+      "profilePic": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=150&auto=format&fit=crop&q=80",
+      "subtitle": "Followed by spider_adventures + 3 more",
+      "isFollowing": false
+    },
+    {
+      "id": 2,
+      
+      "username": "travel_queen",
+      "fullName": "Elena Rostova",
+      "profilePic": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=150&auto=format&fit=crop&q=80",
+      "subtitle": "Followed by travel_girl",
+      "isFollowing": false
+    },
+    {
+      "id": 3,
+      "username": "pixel_designer",
+      "fullName": "Liam Smith",
+      "profilePic": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150&auto=format&fit=crop&q=80",
+      "subtitle": "Suggested for you",
+      "isFollowing": false
+    },
+    {
+      "id": 4,
+      "username": "wanderlust_diaries",
+      "fullName": "Maya Lin",
+      "profilePic": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "subtitle": "New to Instagram",
+      "isFollowing": false
+    },
+    {
+      "id": 5,
+      "username": "tech_insider",
+      "fullName": "David Miller",
+      "profilePic": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&auto=format&fit=crop&q=80",
+      "subtitle": "Followed by chef_nivin + 1 more",
+      "isFollowing": false
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "username": "hanisha_0510",
+      "profilePic": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+      "likes": 348,
+      "caption": "Golden hour never looked so peaceful 🌅✨ Gentle waves and endless skies. #sunsetvibes #wanderlust #coastal",
+      "comments": [
+        { "id": 1, "username": "spider_adventures", "text": "Stunning lighting! Where was this taken?" },
+        { "id": 2, "username": "sophia_art", "text": "Pure serenity ❤️" }
+      ],
+      "createdAt": "2026-03-08T14:30:00Z"
+    },
+    {
+      "id": 2,
+      "username": "travel_girl",
+      "profilePic": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&auto=format&fit=crop&q=80",
+      "likes": 512,
+      "caption": "Road trips through scenic mountain canyons 🏔️🚗 Take only memories, leave only footprints. #adventure #explore",
+      "comments": [
+        { "id": 1, "username": "nature_lens", "text": "Incredible view! Road trip goals 🙌" },
+        { "id": 2, "username": "travel_boy", "text": "Which trail is this? Looks unreal!" }
+      ],
+      "createdAt": "2026-03-08T10:15:00Z"
+    },
+    {
+      "id": 3,
+      "username": "chef_nivin",
+      "profilePic": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=150&auto=format&fit=crop&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&auto=format&fit=crop&q=80",
+      "likes": 689,
+      "caption": "Fresh handmade fettuccine with black truffles and wild forest mushrooms 🍝 Buon appetito! #foodie #cheflife",
+      "comments": [
+        { "id": 1, "username": "hanisha_0510", "text": "Now I am craving pasta! Looks delicious 🤤" },
+        { "id": 2, "username": "fitness_freak", "text": "Cheat meal approved 💪" }
+      ],
+      "createdAt": "2026-03-07T18:45:00Z"
+    },
+    {
+      "id": 4,
+      "username": "tokyo_vibes",
+      "profilePic": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=800&auto=format&fit=crop&q=80",
+      "likes": 924,
+      "caption": "Rainy nights in Shinjuku reflect neon dreams 🏮🌧️ #Tokyo #CyberCity #NightPhotography",
+      "comments": [
+        { "id": 1, "username": "pixel_designer", "text": "The aesthetic is immaculate ⚡" },
+        { "id": 2, "username": "travel_queen", "text": "Missing Japan so much!" }
+      ],
+      "createdAt": "2026-03-07T15:20:00Z"
+    },
+    {
+      "id": 5,
+      "username": "sophia_art",
+      "profilePic": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=800&auto=format&fit=crop&q=80",
+      "likes": 476,
+      "caption": "Finished this oil painting after 3 weeks of layering. Art is how we decorate space; music is how we decorate time. 🎨🖌️",
+      "comments": [
+        { "id": 1, "username": "spider_adventures", "text": "The color harmony here is exquisite!" }
+      ],
+      "createdAt": "2026-03-07T12:00:00Z"
+    },
+    {
+      "id": 6,
+      "username": "golden_retriever_sam",
+      "profilePic": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=150&auto=format&fit=crop&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?w=800&auto=format&fit=crop&q=80",
+      "likes": 1250,
+      "caption": "Found the biggest leaf in the park today and I refused to let it go 🍂🐾 Hope this brings a smile to your feed! #puppylove #goldenretriever",
+      "comments": [
+        { "id": 1, "username": "hanisha_0510", "text": "Such a good boy!! 🥰❤️" },
+        { "id": 2, "username": "travel_girl", "text": "Omg the cutest thing ever 🥺" }
+      ],
+      "createdAt": "2026-03-06T16:00:00Z"
+    },
+    {
+      "id": 7,
+      "username": "coffee_culture",
+      "profilePic": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&auto=format&fit=crop&q=80",
+      "likes": 643,
+      "caption": "Morning rituals: Single origin Ethiopian roast with oat milk swan latte art ☕✨ How do you take your coffee?",
+      "comments": [
+        { "id": 1, "username": "chef_nivin", "text": "Perfection in a cup 👏" }
+      ],
+      "createdAt": "2026-03-06T09:30:00Z"
+    },
+    {
+      "id": 8,
+      "username": "nature_lens",
+      "profilePic": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?w=800&auto=format&fit=crop&q=80",
+      "likes": 884,
+      "caption": "Dancing green auroras over the glaciers of Vik, Iceland 🌌❄️ Nature putting on the greatest show on earth.",
+      "comments": [
+        { "id": 1, "username": "spider_adventures", "text": "Bucket list dream shot right there! 🌟" }
+      ],
+      "createdAt": "2026-03-05T22:15:00Z"
+    }
+  ],
+  "reels": [
+    {
+      "id": 1,
+      "username": "tokyo_vibes",
+      "profilePic": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-tokyo-street-in-the-rain-at-night-40348-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=800&auto=format&fit=crop&q=80",
+      "caption": "Rainy night walks in Tokyo 🏮🌧️ Neon dreams & reflections #Tokyo #CyberCity",
+      "audio": "Original Audio - tokyo_vibes 🎵",
+      "likes": 14200,
+      "commentsCount": 382,
+      "isFollowing": false,
+      "comments": [
+        { "id": 1, "username": "spider_adventures", "text": "This aesthetic is insane!! 🔥" },
+        { "id": 2, "username": "travel_girl", "text": "Shinjuku in the rain hits different 🌧️" }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "travel_boy",
+      "profilePic": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-view-of-the-city-from-a-high-building-42864-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+      "caption": "High above the skyline at sunset 🌅🏙️ Catching horizons across the globe #wanderlust",
+      "audio": "Skyline Beats - Travel Boy 🎶",
+      "likes": 28900,
+      "commentsCount": 610,
+      "isFollowing": false,
+      "comments": [
+        { "id": 1, "username": "travel_queen", "text": "Unreal view Aryan! 😍" },
+        { "id": 2, "username": "nature_lens", "text": "Golden hour lighting is spot on 👌" }
+      ]
+    },
+    {
+      "id": 3,
+      "username": "chef_nivin",
+      "profilePic": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-hands-preparing-a-dish-in-a-kitchen-41444-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&auto=format&fit=crop&q=80",
+      "caption": "Cooking fresh artisan pasta from scratch 🍝👨‍🍳 Sizzle & aromas! #cheflife #foodie",
+      "audio": "Italian Café Vibes - Chef Nivin 🍝",
+      "likes": 45100,
+      "commentsCount": 980,
+      "isFollowing": true,
+      "comments": [
+        { "id": 1, "username": "hanisha_0510", "text": "Looks super delicious 🤤" },
+        { "id": 2, "username": "fitness_freak", "text": "Cheat meal goals right here!" }
+      ]
+    },
+    {
+      "id": 4,
+      "username": "nature_lens",
+      "profilePic": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-aerial-view-of-a-beach-with-waves-41555-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?w=800&auto=format&fit=crop&q=80",
+      "caption": "Ocean waves crashing along golden shores 🌊🏝️ Pure nature bliss #OceanVibes",
+      "audio": "Ocean Waves Chill - Nature Lens 🌊",
+      "likes": 32400,
+      "commentsCount": 420,
+      "isFollowing": false,
+      "comments": [
+        { "id": 1, "username": "sophia_art", "text": "The turquoise tones are stunning!" }
+      ]
+    },
+    {
+      "id": 5,
+      "username": "travel_girl",
+      "profilePic": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-tree-branches-in-the-breeze-1188-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&auto=format&fit=crop&q=80",
+      "caption": "Listening to the forest breeze 🌲🍃 Nature heals the soul #Vanlife #ForestWalks",
+      "audio": "Breeze & Acoustic Guitar 🎸",
+      "likes": 18200,
+      "commentsCount": 215,
+      "isFollowing": true,
+      "comments": [
+        { "id": 1, "username": "travel_boy", "text": "So peaceful 🌿" }
+      ]
+    },
+    {
+      "id": 6,
+      "username": "pixel_designer",
+      "profilePic": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-girl-in-neon-lights-1232-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&auto=format&fit=crop&q=80",
+      "caption": "Cyberpunk portrait lighting setup ⚡💜 Neon glow & shadows #DesignLife",
+      "audio": "Synthwave Cyber Beats 🎧",
+      "likes": 22400,
+      "commentsCount": 310,
+      "isFollowing": false,
+      "comments": [
+        { "id": 1, "username": "sophia_art", "text": "Love the color palette! 💜" }
+      ]
+    },
+    {
+      "id": 7,
+      "username": "wanderlust_diaries",
+      "profilePic": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-sun-setting-over-the-ocean-1178-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+      "caption": "Golden hour by the sea 🌅 Floating into the horizon #SoloTraveler",
+      "audio": "Golden Sunset Instrumental 🌅",
+      "likes": 39800,
+      "commentsCount": 540,
+      "isFollowing": false,
+      "comments": [
+        { "id": 1, "username": "travel_queen", "text": "Heaven on earth! ✨" }
+      ]
+    },
+    {
+      "id": 8,
+      "username": "urban_architect",
+      "profilePic": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-fast-traffic-on-a-city-street-at-night-41584-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&auto=format&fit=crop&q=80",
+      "caption": "City light trails at midnight 🚗🏙️ The city never sleeps #UrbanArchitecture",
+      "audio": "Night Drive Lo-Fi 🌙",
+      "likes": 15600,
+      "commentsCount": 190,
+      "isFollowing": false,
+      "comments": [
+        { "id": 1, "username": "tech_insider", "text": "Timelapse speed is perfect 👌" }
+      ]
+    },
+    {
+      "id": 9,
+      "username": "coffee_culture",
+      "profilePic": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-coffee-cup-on-a-table-in-a-cafe-41566-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&auto=format&fit=crop&q=80",
+      "caption": "Morning espresso rituals ☕✨ Nothing starts the day better #CoffeeLovers",
+      "audio": "Jazz Cafe Piano & Rain ☕",
+      "likes": 27300,
+      "commentsCount": 380,
+      "isFollowing": true,
+      "comments": [
+        { "id": 1, "username": "chef_nivin", "text": "Espresso aroma through the screen! ☕" }
+      ]
+    },
+    {
+      "id": 10,
+      "username": "golden_retriever_sam",
+      "profilePic": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-playing-with-a-cute-dog-on-the-grass-42858-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?w=800&auto=format&fit=crop&q=80",
+      "caption": "Park day with my favorite human 🎾🐾 Always 100% happy boy! #GoldenRetriever",
+      "audio": "Happy Puppy Theme 🐾🎵",
+      "likes": 84200,
+      "commentsCount": 1280,
+      "isFollowing": true,
+      "comments": [
+        { "id": 1, "username": "hanisha_0510", "text": "Such a good boy!! 🥰❤️" },
+        { "id": 2, "username": "travel_girl", "text": "Omg cuteness overload 🥺" }
+      ]
+    },
+    {
+      "id": 11,
+      "username": "sophia_art",
+      "profilePic": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-close-up-of-a-person-painting-41452-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=800&auto=format&fit=crop&q=80",
+      "caption": "Layering oil colors on canvas 🎨🖌️ Art is patience in motion #StudioVibes",
+      "audio": "Classical Cello Sonata 🎻",
+      "likes": 19400,
+      "commentsCount": 260,
+      "isFollowing": false,
+      "comments": [
+        { "id": 1, "username": "spider_adventures", "text": "Masterpiece in progress!" }
+      ]
+    },
+    {
+      "id": 12,
+      "username": "spider_adventures",
+      "profilePic": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-skater-performing-a-trick-in-a-park-41458-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+      "caption": "Sticking the landing on 3rd attempt 🛹🔥 Never give up #SkateLife #Adventures",
+      "audio": "Hip Hop Skate Beats 🎧",
+      "likes": 31200,
+      "commentsCount": 490,
+      "isFollowing": true,
+      "comments": [
+        { "id": 1, "username": "travel_boy", "text": "Clean landing Bro!! 💪" }
+      ]
+    },
+    {
+      "id": 13,
+      "username": "nature_lens",
+      "profilePic": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-view-of-mountains-under-the-clouds-41588-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?w=800&auto=format&fit=crop&q=80",
+      "caption": "Misty mountain peaks above clouds ☁️⛰️ Majestic peaks of Vik #Iceland",
+      "audio": "Epic Cinematic Atmosphere 🌌",
+      "likes": 42100,
+      "commentsCount": 680,
+      "isFollowing": false,
+      "comments": [
+        { "id": 1, "username": "wanderlust_diaries", "text": "Bucket list dream shot!" }
+      ]
+    },
+    {
+      "id": 14,
+      "username": "fitness_freak",
+      "profilePic": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-woman-running-on-the-beach-at-sunset-41462-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800&auto=format&fit=crop&q=80",
+      "caption": "Sunset beach sprints 🌅🏃‍♂️ Push your limits every single day #NoExcuses",
+      "audio": "Workout High Tempo Beat 🔥",
+      "likes": 26800,
+      "commentsCount": 350,
+      "isFollowing": false,
+      "comments": [
+        { "id": 1, "username": "chef_nivin", "text": "Earned that cheat meal! 💪" }
+      ]
+    },
+    {
+      "id": 15,
+      "username": "tech_insider",
+      "profilePic": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-neon-lights-in-a-futuristic-city-42870-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&auto=format&fit=crop&q=80",
+      "caption": "Next gen silicon & holographic displays 💻⚡ Future tech preview 2026",
+      "audio": "Tech Review Synth Theme 🤖",
+      "likes": 35900,
+      "commentsCount": 510,
+      "isFollowing": true,
+      "comments": [
+        { "id": 1, "username": "pixel_designer", "text": "The design aesthetic is wild 🔥" }
+      ]
+    },
+    {
+      "id": 16,
+      "username": "coffee_culture",
+      "profilePic": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-pouring-coffee-into-a-cup-41568-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&auto=format&fit=crop&q=80",
+      "caption": "Pour-over Ethiopian single origin roasts ☕ Warm aromas #BaristaLife",
+      "audio": "Warm Espresso Jazz 🎷",
+      "likes": 19800,
+      "commentsCount": 270,
+      "isFollowing": false,
+      "comments": [
+        { "id": 1, "username": "hanisha_0510", "text": "Need this right now! ☕" }
+      ]
+    },
+    {
+      "id": 17,
+      "username": "travel_queen",
+      "profilePic": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-driving-on-a-scenic-road-canyon-41590-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=800&auto=format&fit=crop&q=80",
+      "caption": "Canyon road trips in convertible 🚗💨 Life is a highway #TravelQueen",
+      "audio": "Roadtrip Summer Hits ☀️",
+      "likes": 51200,
+      "commentsCount": 820,
+      "isFollowing": true,
+      "comments": [
+        { "id": 1, "username": "travel_boy", "text": "Route 66 vibes! 🚗" }
+      ]
+    },
+    {
+      "id": 18,
+      "username": "nature_lens",
+      "profilePic": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-night-sky-full-of-stars-timelapse-41592-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?w=800&auto=format&fit=crop&q=80",
+      "caption": "Milky way galaxy timelapse over desert dunes 🌌✨ We are made of stardust.",
+      "audio": "Cosmic Voyage Atmosphere 🪐",
+      "likes": 64300,
+      "commentsCount": 1140,
+      "isFollowing": false,
+      "comments": [
+        { "id": 1, "username": "spider_adventures", "text": "Speechless!! 🌌" }
+      ]
+    },
+    {
+      "id": 19,
+      "username": "chef_nivin",
+      "profilePic": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-fresh-fruit-smoothie-preparation-41596-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&auto=format&fit=crop&q=80",
+      "caption": "Tropical dragonfruit smoothie bowl 🍓🫐 Fresh morning vitamins!",
+      "audio": "Upbeat Tropical House 🌴",
+      "likes": 23100,
+      "commentsCount": 310,
+      "isFollowing": true,
+      "comments": [
+        { "id": 1, "username": "fitness_freak", "text": "Post workout fuel! 🍓" }
+      ]
+    },
+    {
+      "id": 20,
+      "username": "hanisha_0510",
+      "profilePic": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-cat-looking-out-the-window-41598-large.mp4",
+      "poster": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+      "caption": "Rainy afternoon mood at home 🌧️🐱 Cozy vibes & warm tea ✨",
+      "audio": "Cozy Home Rain Lo-Fi 🌧️",
+      "likes": 18900,
+      "commentsCount": 240,
+      "isFollowing": true,
+      "comments": [
+        { "id": 1, "username": "sophia_art", "text": "So cozy!! ❤️" }
+      ]
+    }
+  ]
+}
